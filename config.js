@@ -1,6 +1,6 @@
-global.owner = ['6281515860089', '6281334177340'] // Put your number here
+global.owner = ['573042618208', '56936696785'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['573042618208', '5636696785'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -20,10 +20,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'I hope you\'re fine'
+global.packname = 'Espero que estes bien'
 global.author = 'Nurutomo'
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 20 // The higher, The harder levelup
 
 let fs = require('fs')
 let chalk = require('chalk')
